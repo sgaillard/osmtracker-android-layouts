@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layouts>
+  <layout name="root">
+    <row>
+      <button type="tag" label="30 km/h" />
+      <button type="tag" label="50 km/h" />
+      <button type="tag" label="70 km/h" />
+    </row>
+    <row>
+      <button type="tag" label="80 km/h" />
+      <button type="tag" label="90 km/h" />
+      <button type="tag" label="110 km/h" />
+      <button type="tag" label="130 km/h" />
+    </row>
+    <row>
+      <button type="tag" label="STOP" />
+      <button type="tag" label="Céder le passage" />
+      <button type="tag" label="Feu" />
+    </row>
+  </layout>
+</layouts>
