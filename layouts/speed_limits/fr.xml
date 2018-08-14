@@ -2,15 +2,15 @@
 <layouts>
   <layout name="root">
     <row>
-      <button type="tag" label="30 km/h" />
-      <button type="tag" label="50 km/h" />
-      <button type="tag" label="70 km/h" />
+      <button type="tag" label="30 km/h" icon="speed_limits_icons/30_small.png" />
+      <button type="tag" label="50 km/h" icon="speed_limits_icons/50_small.png" />
+      <button type="tag" label="70 km/h" icon="speed_limits_icons/70_small.png" />
     </row>
     <row>
-      <button type="tag" label="80 km/h" />
-      <button type="tag" label="90 km/h" />
-      <button type="tag" label="110 km/h" />
-      <button type="tag" label="130 km/h" />
+      <button type="tag" label="80 km/h" icon="speed_limits_icons/80_small.png" />
+      <button type="tag" label="90 km/h" icon="speed_limits_icons/90_small.png" />
+      <button type="tag" label="110 km/h" icon="speed_limits_icons/110_small.png" />
+      <button type="tag" label="130 km/h" icon="speed_limits_icons/130_small.png" />
     </row>
     <row>
       <button type="tag" label="STOP" />
